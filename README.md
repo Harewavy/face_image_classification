@@ -40,9 +40,9 @@ Extract the contents of the ZIP file into your working directory to run the note
 
 **Enes Ozturk**
 
-- 📧 Email: nsztrk00@icloud.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ozturkkenes)  
-- 💻 [GitHub](https://github.com/Harewavy)
+- Email: nsztrk00@icloud.com  
+- [LinkedIn](https://www.linkedin.com/in/ozturkkenes)  
+- [GitHub](https://github.com/Harewavy)
 
 ---
 
